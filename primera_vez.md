@@ -2,6 +2,8 @@
 
 Para acceder a coursera por primera vez, hazlo desde Blackboard. Da click al link. 
 
+Si ya cuentas con una cuenta en Coursera, consulta nuestas [FAQs](https://github.com/ciencia-de-datos-uvm/coursera/blob/main/FAQs.md) para saber mas.
+
 ![image](https://user-images.githubusercontent.com/71740335/213067885-a8e133a8-8ee3-4566-b72e-f416a2f9c692.png)
 
 se abre otra ventana, verifiquen que no tengan bloqueadas ventanas emergentes en su navegador
