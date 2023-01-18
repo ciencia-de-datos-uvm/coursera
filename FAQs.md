@@ -1,4 +1,4 @@
-# Primeros pasos
+# Frequently Asked Questions
 
 ## Contenido 
 
